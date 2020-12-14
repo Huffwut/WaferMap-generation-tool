@@ -2,13 +2,13 @@
 Work in progress tool. Mainly used to visualize wafermaps when given a nice DataFrame.
 If you use it, would be nice to have some credit for this :)
 
-![DataFrame](link)
+![DataFrame](https://raw.githubusercontent.com/Huffwut/WaferMap-generation-tool/main/readme_images/dataframe.png)
 
 Main requirements are, to have a data column, e.g. Resistance, and X and Y, which would display on a 2D graph, for that specific die the Resistance value.
 
-![WaferMap](link)
+![WaferMap](https://github.com/Huffwut/WaferMap-generation-tool/blob/main/readme_images/Resistance.svg)
 
-![Wafermap](link)
+![Wafermap](https://raw.githubusercontent.com/Huffwut/WaferMap-generation-tool/50d3aa6169698982b9fd4e065ab355cb6e7b0d18/readme_images/Offset%20mV.svg)
 
 ## Basic usage:
 
