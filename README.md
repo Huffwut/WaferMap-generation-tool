@@ -1,4 +1,4 @@
-# WaferMap-generation-tool
+# WaferMap-visualization-tool
 Work in progress tool. Mainly used to visualize wafermaps when given a nice DataFrame.
 If you use it, would be nice to have some credit for this :)
 
